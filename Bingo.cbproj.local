@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/01 01:44:45.000.638,=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/11/01 01:44:45.000.622,=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/11/11 21:36:19.000.787,=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/11/11 21:36:19.000.808,=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/11/12 00:37:20.000.748,=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/11/12 00:37:20.000.769,=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/11/12 00:37:46.000.365,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormPrincipal.dfm=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/11/12 00:37:46.000.365,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormPrincipal.h=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/11/12 00:37:46.000.365,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormPrincipal.cpp=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/11/12 00:37:59.000.158,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\noce.h=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/11/12 00:38:04.000.817,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Bingo.cbproj=C:\Users\BALANZA_VICTOR\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2017/11/12 00:38:08.000.875,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\noce.h=</Transaction>
+    <Transaction>2017/11/12 00:40:55.000.008,=C:\Users\BALANZA_VICTOR\Desktop\Bingo\ClassLetra.h</Transaction>
+    <Transaction>2017/11/12 00:41:09.000.241,=C:\Users\BALANZA_VICTOR\Desktop\Bingo\ClassBingo.h</Transaction>
+    <Transaction>2017/11/12 00:42:33.000.220,C:\Users\BALANZA_VICTOR\Desktop\Bingo\ClassBingo.h=</Transaction>
+    <Transaction>2017/11/12 00:42:35.000.748,C:\Users\BALANZA_VICTOR\Desktop\Bingo\ClassLetra.h=</Transaction>
+    <Transaction>2017/11/12 00:43:36.000.381,=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\ClassBingo.h</Transaction>
+    <Transaction>2017/11/12 00:43:40.000.981,=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\ClassLetra.h</Transaction>
+    <Transaction>2017/11/12 00:46:45.000.280,=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit2.cpp</Transaction>
+    <Transaction>2017/11/12 00:51:57.000.696,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormBingo123.h=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit2.h</Transaction>
+    <Transaction>2017/11/12 00:51:57.000.696,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormBingo123.dfm=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit2.dfm</Transaction>
+    <Transaction>2017/11/12 00:51:57.000.696,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormBingo123.cpp=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit2.cpp</Transaction>
+    <Transaction>2017/11/12 00:52:08.000.753,=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit3.cpp</Transaction>
+    <Transaction>2017/11/12 00:52:20.000.983,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormBingoABC.h=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit3.h</Transaction>
+    <Transaction>2017/11/12 00:52:20.000.983,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormBingoABC.cpp=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit3.cpp</Transaction>
+    <Transaction>2017/11/12 00:52:20.000.983,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormBingoABC.dfm=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit3.dfm</Transaction>
+    <Transaction>2017/11/12 02:15:00.000.375,=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit1.cpp</Transaction>
+    <Transaction>2017/11/12 02:46:41.000.894,=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit4.cpp</Transaction>
+    <Transaction>2017/11/12 02:46:55.000.606,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit4.dfm=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormCargando.dfm</Transaction>
+    <Transaction>2017/11/12 02:46:55.000.606,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit4.h=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormCargando.h</Transaction>
+    <Transaction>2017/11/12 02:46:55.000.606,C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\Unit4.cpp=C:\Users\BALANZA_VICTOR\Desktop\Juego Bingo\FormCargando.cpp</Transaction>
+    <Transaction>2017/12/03 22:41:28.000.520,=C:\Users\vida1\Desktop\Juego Bingo\File1.h</Transaction>
+    <Transaction>2017/12/03 22:41:42.000.424,C:\Users\vida1\Desktop\Juego Bingo\ClassBolo.h=C:\Users\vida1\Desktop\Juego Bingo\File1.h</Transaction>
+    <Transaction>2017/12/04 01:43:10.000.753,=C:\Users\vida1\Desktop\Juego Bingo\Unit5.cpp</Transaction>
+    <Transaction>2017/12/04 01:45:45.000.720,C:\Users\vida1\Desktop\Juego Bingo\FormBingoHorizontal123.cpp=C:\Users\vida1\Desktop\Juego Bingo\Unit5.cpp</Transaction>
+    <Transaction>2017/12/04 01:45:45.000.720,C:\Users\vida1\Desktop\Juego Bingo\FormBingoHorizontal123.h=C:\Users\vida1\Desktop\Juego Bingo\Unit5.h</Transaction>
+    <Transaction>2017/12/04 01:45:45.000.720,C:\Users\vida1\Desktop\Juego Bingo\FormBingoHorizontal123.dfm=C:\Users\vida1\Desktop\Juego Bingo\Unit5.dfm</Transaction>
+    <Transaction>2017/12/04 01:46:00.000.955,=C:\Users\vida1\Desktop\Juego Bingo\Unit6.cpp</Transaction>
+    <Transaction>2017/12/04 01:47:47.000.319,C:\Users\vida1\Desktop\Juego Bingo\FormBingoHorizontalABC.h=C:\Users\vida1\Desktop\Juego Bingo\Unit6.h</Transaction>
+    <Transaction>2017/12/04 01:47:47.000.319,C:\Users\vida1\Desktop\Juego Bingo\FormBingoHorizontalABC.cpp=C:\Users\vida1\Desktop\Juego Bingo\Unit6.cpp</Transaction>
+    <Transaction>2017/12/04 01:47:47.000.319,C:\Users\vida1\Desktop\Juego Bingo\FormBingoHorizontalABC.dfm=C:\Users\vida1\Desktop\Juego Bingo\Unit6.dfm</Transaction>
+    <Transaction>2017/12/04 01:48:27.000.165,=C:\Users\vida1\Desktop\Juego Bingo\File1.h</Transaction>
+    <Transaction>2017/12/04 02:00:17.000.872,C:\Users\vida1\Desktop\Juego Bingo\ClassBingoHorizontal123.h=C:\Users\vida1\Desktop\Juego Bingo\File1.h</Transaction>
+    <Transaction>2017/12/04 02:00:52.000.563,=C:\Users\vida1\Desktop\Juego Bingo\File1.h</Transaction>
+    <Transaction>2017/12/04 02:01:07.000.645,C:\Users\vida1\Desktop\Juego Bingo\ClassBingoHorizontalABC.h=C:\Users\vida1\Desktop\Juego Bingo\File1.h</Transaction>
+    <Transaction>2017/12/04 02:01:29.000.349,C:\Users\vida1\Desktop\Juego Bingo\ClassLetraHorizontalABC.h=C:\Users\vida1\Desktop\Juego Bingo\ClassBingoHorizontalABC.h</Transaction>
+    <Transaction>2017/12/04 08:38:54.000.752,C:\Users\vida1\Desktop\Juego Bingo\ClassBingoHorizontal123.h=</Transaction>
+    <Transaction>2017/12/04 08:38:58.000.880,C:\Users\vida1\Desktop\Juego Bingo\ClassLetraHorizontalABC.h=</Transaction>
+  </Transactions>
+</BorlandProject>
